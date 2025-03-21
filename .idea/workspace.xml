@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b920e2cb-99df-4d70-829c-0ea2ea2a63b2" name="Changes" comment="Lab1 1st commit">
-      <change afterPath="$PROJECT_DIR$/Lab1/zad3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab1/zad4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/zad3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="b920e2cb-99df-4d70-829c-0ea2ea2a63b2" name="Changes" comment="Lab1 - Lab2 complete">
+      <change afterPath="$PROJECT_DIR$/Lab3/zad5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/zad6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/zad2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/zad2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +54,8 @@
     "Python.zad2.executor": "Run",
     "Python.zad3.executor": "Run",
     "Python.zad4.executor": "Run",
+    "Python.zad5.executor": "Run",
+    "Python.zad6.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/w71474/PycharmProjects/AiSD_Patryk_Winiarski/Lab1",
@@ -90,7 +89,8 @@
       <option name="presentableId" value="Default" />
       <updated>1741856611778</updated>
       <workItem from="1741942924428" duration="4990000" />
-      <workItem from="1742037556764" duration="5100000" />
+      <workItem from="1742037556764" duration="6607000" />
+      <workItem from="1742575052941" duration="3988000" />
     </task>
     <task id="LOCAL-00001" summary="Lab1 1st commit">
       <option name="closed" value="true" />
@@ -100,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741861006498</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Lab1 - Lab2 complete">
+      <option name="closed" value="true" />
+      <created>1742051472368</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742051472368</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,11 +127,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lab1 1st commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab1 1st commit" />
+    <MESSAGE value="Lab1 - Lab2 complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab1 - Lab2 complete" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/AiSD_Patryk_Winiarski$zad3.coverage" NAME="zad3 Coverage Results" MODIFIED="1742042047456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab2" />
+    <SUITE FILE_PATH="coverage/AiSD_Patryk_Winiarski$zad5.coverage" NAME="zad5 Coverage Results" MODIFIED="1742576519467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab3" />
+    <SUITE FILE_PATH="coverage/AiSD_Patryk_Winiarski$zad6.coverage" NAME="zad6 Coverage Results" MODIFIED="1742582809261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab3" />
     <SUITE FILE_PATH="coverage/AiSD_Patryk_Winiarski$zad4.coverage" NAME="zad4 Coverage Results" MODIFIED="1741946360092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab1" />
-    <SUITE FILE_PATH="coverage/AiSD_Patryk_Winiarski$zad2.coverage" NAME="zad2 Coverage Results" MODIFIED="1742043951033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab2" />
+    <SUITE FILE_PATH="coverage/AiSD_Patryk_Winiarski$zad2.coverage" NAME="zad2 Coverage Results" MODIFIED="1742044002197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab2" />
   </component>
 </project>
